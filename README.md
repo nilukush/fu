@@ -2,13 +2,13 @@
 Upload files to dropbox in account, nilukush
 
 ## HOW TO upload
-* `git clone git@github.com:nilukush/fu.git`
-* `./gradlew build`
-* `./gradlew run -Pfp=<list of file path>`
+* <code>git clone git@github.com:nilukush/fu.git</code>
+* <code>./gradlew build</code>
+* <code>./gradlew run -Pfp=\<list of file path\></code>
     * Currently, allows only one file to be uploaded
 
 ## Example
-* `./gradlew run -Pfp="['/Users/nilesh.kumar/Downloads/Spring_Boot_in_Action.pdf']"`
+* <code>./gradlew run -Pfp="['/Users/nilesh.kumar/Downloads/Spring_Boot_in_Action.pdf']"</code>
 
 ## Resources
 * [Gradle Tasks](https://docs.gradle.org/current/userguide/more_about_tasks.html)
