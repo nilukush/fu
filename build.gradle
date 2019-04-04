@@ -29,6 +29,9 @@ dependencies {
 
     // apache commons lang
     compile 'org.apache.commons:commons-lang3:3.8.1'
+
+    // jet brains annotations
+    compile 'org.jetbrains:annotations:17.0.0'
 }
 
 // In this section you declare where to find the dependencies of your project

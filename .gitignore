@@ -1,10 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle/
-.idea/dbnavigator.xml
-.idea/gradle.xml
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/workspace.xml
 .idea/*
 *.iml
 build/
+.DS_Store
+gradle/.DS_Store
+out/
