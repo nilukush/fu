@@ -5,7 +5,7 @@ Upload files to dropbox in account, nilukush
 * <code>git clone git@github.com:nilukush/fu.git</code>
 * <code>./gradlew build</code>
 * <code>./gradlew run -Pfp=\<list of file path\></code>
-    * Currently, allows only one file to be uploaded
+    * Currently, allows only one file or directory to be uploaded
 
 ## Example
 * <code>./gradlew run -Pfp="['/Users/nilesh.kumar/Downloads/Spring_Boot_in_Action.pdf']"</code>
